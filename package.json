@@ -4,6 +4,8 @@
     "start": "nuxt"
   },
   "dependencies": {
-    "nuxt": "^1.4.2"
+    "nuxt": "^1.4.2",
+    "element-ui": "2.4.6",
+    "iview":"latest"
   }
 }
